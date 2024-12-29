@@ -98,7 +98,7 @@ work:
     date_start: 2024-07-10 # 开始日期
     date_end: '' # 结束日期
     summary: | # 职位职责总结
-      Responsibilities include: # 工作职责包括：
+      Responsibilities include: 
       - Advanced features of oscilloscope embedding/deembedding
       - The equalizer design of Serdes, including CTLE FFE、DFE
       - Serial Data Link Analysis
