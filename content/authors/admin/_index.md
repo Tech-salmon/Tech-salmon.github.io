@@ -3,7 +3,7 @@
 title: 邵文逸
 
 # 姓名发音（可选）
-name_pronunciation: Shao wen yi
+name_pronunciation: Shaowen yi
 
 # 全名（用于 SEO 优化）
 first_name: Shao
@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:swyhit@163.com' # 邮件地址
     label: E-mail Me # 按钮标签
-  - icon: zhihu.svg
+  - icon: assets/media/icons/zhihu.svg
     url: https://www.zhihu.com/people/gong-xi-27-14 # 知乎链接
-  - icon: csdn.svg
+  - icon: assets/media/icons/csdn.svg
     url: https://blog.csdn.net/qq_42986755
   
   # - icon: brands/x
@@ -71,8 +71,8 @@ education:
       - CNNs
       - Hardware Design 
       
-  - area: BSc Artificial Intelligence # 本科专业：人工智能
-    institution: Massachusetts Institute of Technology # 所在机构：麻省理工学院
+  - area: BSc Electronic Information Engineering # 本科专业：人工智能
+    institution: Nanjing University of Information Science and Technology # 所在机构：麻省理工学院
     date_start: 2017-09-01 # 开始日期
     date_end: 2021-06-30 # 结束日期
     summary: | # 总结描述
