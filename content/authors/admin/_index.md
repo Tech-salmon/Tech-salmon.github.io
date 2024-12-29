@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:swyhit@163.com' # 邮件地址
     label: E-mail Me # 按钮标签
-  - icon: assets/media/icons/zhihu.svg
+  - icon: "zhihu"
     url: https://www.zhihu.com/people/gong-xi-27-14 # 知乎链接
-  - icon: assets/media/icons/csdn.svg
+  - icon: "csdn"
     url: https://blog.csdn.net/qq_42986755
   
   # - icon: brands/x
