@@ -30,7 +30,7 @@ highlight_name: true
 # 社交网络链接
 # 如果需要其他图标，可以将其 SVG 文件下载到`assets/media/icons/`文件夹。
 profiles:
-  - icon: at-symbol
+  - icon: "custom/email"
     url: 'mailto:swyhit@163.com' # 邮件地址
     label: E-mail Me # 按钮标签
   - icon: "custom/zhihu"
