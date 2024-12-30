@@ -6,7 +6,7 @@ date: 2024-12-30
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
@@ -19,6 +19,10 @@ tags:
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
+{{< figure src="featured.jpg" id="01" >}}
+{{< figure src="image-2.jpg" id="02" >}}
+{{< figure src="image-3.jpg" id="03" >}}
+{{< figure src="image4.png" id="04" >}}
 
 
 ## 传输线理论的实质
@@ -27,7 +31,7 @@ $$\mathbf{V}(z, t) = V_0 e^{j(\omega t - kz)} = V_0 \cos(\omega t -kz) $$
 该表达式以一种方式将空间和时间结合在一起，其空间特性由沿着Z轴的波长$\lambda$来描述，时间特性则由沿着时间轴的周期$T$来描述。数学上称之为相对于时间的空间变化，也就是运动速度。其相速为：
 $$v_p = \frac{\omega}{k} = \frac{1}{\sqrt{\mu \varepsilon}} =\lambda f = \frac{c}{\sqrt{\varepsilon_r \mu_r}}$$
 假设一个电路由内阻为$R_G$的正弦电压源$V_G$通过1.5cm长的铜导线与负载电阻$R_L$相连接，$\varepsilon_r=10$, $\mu_r=1$。如下图：
-![alt text](featured.jpg)
+[A Figure](#figure-01)
 **在不考虑导线电阻的情况下：**
 当信号频率为1MHz时，$v_p = 9.49 \times 10^7 m/s$。得到$\lambda = 94.86 m$。那么连接信号源与负载的导线即可忽略不计。
 当信号频率提高到10GHz时，$\lambda = 0.949 cm$。此时，沿着1.5cm的导线测量电压，空间位置就成为确定信号相位的决定性因素。  
